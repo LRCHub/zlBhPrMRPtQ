@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "幽霊船戦",
+  "base_artist": "宝鐘マリン",
+  "createdAt": "2026-01-14T03:41:02.689793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幽霊船戦",
+      "artist": "宝鐘マリン",
+      "has_synced": true,
+      "path": "select/01_幽霊船戦_宝鐘マリン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幽霊船戦",
+      "artist": "宝鐘マ��ン",
+      "has_synced": true,
+      "path": "select/02_幽霊船戦_宝鐘マ��ン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "幽霊船戦",
+      "artist": "宝鐘マリン",
+      "has_synced": true,
+      "path": "select/03_幽霊船戦_宝鐘マリン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幽霊船戦",
+      "artist": "宝鐘マリン",
+      "has_synced": false,
+      "path": "select/pl_01_幽霊船戦_宝鐘マリン.txt"
+    }
+  ]
+}
